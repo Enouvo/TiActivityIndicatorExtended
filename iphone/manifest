@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: com.enouvo.tiactivityindicator
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: com.enouvo.tiactivityindicator
+moduleid: com.enouvo.tiactivityindicator
+guid: 90b7c493-c957-44f4-8af1-a6c561f9625c
+platform: iphone
+minsdk: 3.5.1.GA
